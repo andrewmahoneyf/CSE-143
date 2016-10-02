@@ -15,7 +15,7 @@ This is a Git repository to store work I completed in CSE 143
 
 #### <a name="book-catalog"></a>Book Catalog
 * This program acts as a library book catalog where you can add, remove or find books with a ISBN code. 
-[Code](<https://github.com/andrewmahoneyf/CSE-143/blob/master/CSE143Github/Book-Catalog>)
+[Code](<https://github.com/andrewmahoneyf/CSE-143/blob/master/CSE143Github/Book Catalog>)
 
 #### <a name="enigma"></a>Enigma
 * This program will help you encode or decode messages using an Enigma three-ring model. 
@@ -27,7 +27,7 @@ This is a Git repository to store work I completed in CSE 143
 
 #### <a name="sentimental-analysis"></a>Sentimental Analysis
 * This program will analyze the words used in booksusing sentimental analysis to test if the book is a comedy, tragedy, or a nuetral book with word counts.
-[Code](<https://github.com/andrewmahoneyf/CSE-143/blob/master/CSE143Github/Sentimental-Analysis>)
+[Code](<https://github.com/andrewmahoneyf/CSE-143/blob/master/CSE143Github/Sentimental Analysis>)
 
 ## Contact
 This is an open source project released under the MIT License. Contact me if you want to suggest an improvement, or fork and send a pull request!
