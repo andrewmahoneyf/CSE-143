@@ -1,5 +1,5 @@
-# CSE-143 Coursework
-This is a Git repository to store work I completed in CSE 143
+# Java Programming 2 Coursework
+This is a Git repository to store work I completed in Java Programming 2
 
 ## Table of Contents
 
